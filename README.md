@@ -25,7 +25,7 @@
               <tr>
                 <th width="30%">Roll</th>
                 <td width="2%">:</td>
-                <td>125</td>
+                <td>19</td>
               </tr>
               <tr>
                 <th width="30%">Academic Year	</th>
@@ -40,7 +40,7 @@
               <tr>
                 <th width="30%">Religion</th>
                 <td width="2%">:</td>
-                <td>Group</td>
+                <td>Hindu</td>
               </tr>
               <tr>
                 <th width="30%">Age</th>
