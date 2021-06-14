@@ -9,7 +9,7 @@
             <h3>Janani K</h3>
           </div>
           <div class="card-body">
-            <p class="mb-0"><strong class="pr-1">Student ID:</strong>92131810078</p>
+            <p class="mb-0"><strong class="pr-1">Student ID:</strong>921318106078</p>
             <p class="mb-0"><strong class="pr-1">Branch:</strong>ECE</p>
             <p class="mb-0"><strong class="pr-1">Section:</strong>A</p>
           </div>
